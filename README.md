@@ -1,15 +1,14 @@
-[![Stories in Ready](https://badge.waffle.io/shukydvir/google-analytics-turbolinks.png)](http://waffle.io/shukydvir/google-analytics-turbolinks)  
-# Google::Analytics::Turbolinks
+# Baidu::Tongji::Turbolinks
 
 **use with Rails and Asset Pipeline**
 
-This gem adds support for Google Analytics to use with Rails Turbolinks, this gem is inspired with turbolinks-analytics gem which seems to been removed from github.
+This gem adds support for Baidu Tongji to use with Rails Turbolinks, this gem is inspired with turbolinks-analytics gem which seems to been removed from github.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'google-analytics-turbolinks'
+    gem 'baidu-tongji-turbolinks'
 
 And then execute:
 
@@ -17,11 +16,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install google-analytics-turbolinks
+    $ gem install baidu-tongji-turbolinks
 
 ## Usage
 
-	Add //= require google-analytics-turbolinks to your Javascript manifest file.
+	Add //= require baidu-tongji-turbolinks to your Javascript manifest file.
 
 ## Contributing
 
